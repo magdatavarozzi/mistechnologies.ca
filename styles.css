@@ -12,7 +12,7 @@
   --pale-blue: #EAF6FC;
 
   --ink-soft: #4B6070;
-  --muted: #748592;
+  --muted: #5F6F7B;
 
   --line: #DCE5EB;
   --surface: #F8FBFD;
@@ -350,6 +350,8 @@ p {
 
 .hero h1 {
   margin-bottom: 28px;
+
+  font-size: clamp(2.65rem, 4.6vw, 4rem);
 }
 
 .hero h1 span,
@@ -1309,7 +1311,7 @@ p {
   }
 
   .floating-two {
-    bottom: 2px;
+    bottom: -16px;
     left: 5px;
   }
 

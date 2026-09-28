@@ -16,13 +16,13 @@ const translations = {
 
 
     "hero.eyebrow":
-      "BUSINESS SYSTEMS • DIGITAL SOLUTIONS",
+      "MONTREAL • SINCE 2001",
 
     "hero.title":
-      "Business systems.<br>Digital solutions.<br><span>Practical support.</span>",
+      "Business systems.<br>Digital solutions.<br><span>Ongoing support.</span>",
 
     "hero.text":
-      "Help professionals and small businesses organize systems, simplify workflows, and implement practical digital solutions for everyday business needs.",
+      "Services that help professionals and small businesses streamline systems, simplify workflows, and put digital solutions in place.",
 
     "hero.primary":
       "Explore Services",
@@ -63,10 +63,10 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Practical solutions for<br><span>everyday business needs.</span>",
+      "Solutions for<br><span>everyday business needs.</span>",
 
     "services.intro":
-      "Address business systems, financial operations, workflows, technology, and digital development with focused, practical support.",
+      "Address business systems, financial operations, workflows, technology, and digital development with focused support.",
 
 
     "services.one.label":
@@ -120,7 +120,7 @@ const translations = {
       "Business Systems Consulting",
 
     "services.three.text":
-      "Evaluate business software, configure systems, connect platforms, and resolve practical technology issues.",
+      "Evaluate business software, configure systems, connect platforms, and resolve technology issues.",
 
     "services.three.item1":
       "Evaluate software options",
@@ -142,7 +142,7 @@ const translations = {
       "Web Design & Digital Solutions",
 
     "services.four.text":
-      "Design modern responsive websites and build simple digital tools that support practical business objectives.",
+      "Design modern responsive websites and build simple digital tools that support business objectives.",
 
     "services.four.item1":
       "Design responsive websites",
@@ -158,13 +158,13 @@ const translations = {
 
 
     "services.five.label":
-      "END-TO-END SOLUTIONS",
+      "NEEDS ANALYSIS",
 
     "services.five.title":
       "Turnkey Solutions & Needs Analysis",
 
     "services.five.text":
-      "Analyze business needs, define the right solution, coordinate implementation, and deliver a practical path from requirement to result.",
+      "Analyze business needs, define the right solution, and coordinate implementation.",
 
     "services.five.item1":
       "Execute comprehensive needs analysis",
@@ -176,7 +176,7 @@ const translations = {
       "Coordinate implementation",
 
     "services.five.item4":
-      "Deliver practical end-to-end solutions",
+      "Oversee delivery from start to finish",
 
 
     "approach.eyebrow":
@@ -186,7 +186,7 @@ const translations = {
       "Streamline systems.<br><span>Simplify business.</span>",
 
     "approach.text1":
-      "Analyze current systems, identify priorities, and implement practical solutions around business requirements.",
+      "Analyze current systems, identify priorities, and implement solutions around business requirements.",
 
     "approach.text2":
       "Align technology, workflows, and digital tools with the way each business operates. Establish manageable solutions that can evolve as needs change.",
@@ -201,13 +201,13 @@ const translations = {
       "Implement",
 
     "approach.implement.text":
-      "Configure and introduce practical solutions and workflows.",
+      "Configure and introduce solutions and workflows.",
 
     "approach.support.title":
       "Support",
 
     "approach.support.text":
-      "Maintain, refine, and support systems as business needs evolve.",
+      "Maintain and refine systems over time.",
 
 
     "about.eyebrow":
@@ -223,16 +223,16 @@ const translations = {
       "Business & Technology",
 
     "about.text1":
-      "MISTechnologies brings together business systems, financial technology, IT, and digital development to provide practical support for professionals and small businesses.",
+      "MISTechnologies brings together business systems, financial technology, IT, and digital development to support professionals and small businesses.",
 
     "about.text2":
       "Apply experience with business software, financial systems, process improvement, and web development to make technology useful, manageable, and aligned with business needs.",
 
     "about.point1":
-      "Business systems experience",
+      "Business systems",
 
     "about.point2":
-      "Financial technology experience",
+      "Financial technology",
 
     "about.point3":
       "IT & digital development",
@@ -243,9 +243,6 @@ const translations = {
 
     "contact.title":
       "Start with a<br><span>conversation.</span>",
-
-    "contact.text":
-      "Define the business need, identify the right starting point, and establish a practical next step.",
 
 
     "form.name":
@@ -283,7 +280,7 @@ const translations = {
 
 
     "footer.tagline":
-      "Business systems. Digital solutions. Practical support.",
+      "Business systems. Digital solutions.",
 
     "footer.rights":
       "All rights reserved.",
@@ -304,13 +301,13 @@ const translations = {
 
 
     "hero.eyebrow":
-      "SYSTÈMES D’AFFAIRES • SOLUTIONS NUMÉRIQUES",
+      "MONTRÉAL • DEPUIS 2001",
 
     "hero.title":
-      "Systèmes d’affaires.<br>Solutions numériques.<br><span>Soutien pratique.</span>",
+      "Systèmes d’affaires.<br>Solutions numériques.<br><span>Soutien continu.</span>",
 
     "hero.text":
-      "Aider les professionnels et les petites entreprises à structurer leurs systèmes, simplifier leurs flux de travail et mettre en œuvre des solutions numériques pratiques pour les besoins quotidiens.",
+      "Services qui aident les professionnels et les petites entreprises à optimiser leurs systèmes, simplifier leurs flux de travail et mettre en place des solutions numériques.",
 
     "hero.primary":
       "Voir les services",
@@ -351,10 +348,10 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Des solutions pratiques pour<br><span>les besoins quotidiens.</span>",
+      "Des solutions pour<br><span>les besoins quotidiens.</span>",
 
     "services.intro":
-      "Aborder les systèmes d’affaires, les opérations financières, les flux de travail, la technologie et le développement numérique avec un soutien ciblé et pratique.",
+      "Aborder les systèmes d’affaires, les opérations financières, les flux de travail, la technologie et le développement numérique avec un soutien ciblé.",
 
 
     "services.one.label":
@@ -408,7 +405,7 @@ const translations = {
       "Conseil en systèmes d’affaires",
 
     "services.three.text":
-      "Évaluer les logiciels d’affaires, configurer les systèmes, connecter les plateformes et résoudre les enjeux technologiques pratiques.",
+      "Évaluer les logiciels d’affaires, configurer les systèmes, connecter les plateformes et résoudre les enjeux technologiques.",
 
     "services.three.item1":
       "Évaluer les options logicielles",
@@ -430,7 +427,7 @@ const translations = {
       "Conception Web et solutions numériques",
 
     "services.four.text":
-      "Concevoir des sites Web modernes et adaptatifs ainsi que des outils numériques simples qui répondent aux objectifs pratiques de l’entreprise.",
+      "Concevoir des sites Web modernes et adaptatifs ainsi que des outils numériques simples qui répondent aux objectifs de l’entreprise.",
 
     "services.four.item1":
       "Concevoir des sites Web adaptatifs",
@@ -446,13 +443,13 @@ const translations = {
 
 
     "services.five.label":
-      "SOLUTIONS DE BOUT EN BOUT",
+      "ANALYSE DES BESOINS",
 
     "services.five.title":
       "Solutions clés en main et analyse des besoins",
 
     "services.five.text":
-      "Analyser les besoins d’affaires, définir la bonne solution, coordonner la mise en œuvre et établir un parcours pratique de l’exigence au résultat.",
+      "Analyser les besoins d’affaires, définir la bonne solution et coordonner la mise en œuvre.",
 
     "services.five.item1":
       "Effectuer une analyse complète des besoins",
@@ -464,7 +461,7 @@ const translations = {
       "Coordonner la mise en œuvre",
 
     "services.five.item4":
-      "Livrer des solutions pratiques de bout en bout",
+      "Superviser la réalisation du début à la fin",
 
 
     "approach.eyebrow":
@@ -474,7 +471,7 @@ const translations = {
       "Structurer les systèmes.<br><span>Simplifier l’entreprise.</span>",
 
     "approach.text1":
-      "Analyser les systèmes actuels, cerner les priorités et mettre en œuvre des solutions pratiques adaptées aux exigences de l’entreprise.",
+      "Analyser les systèmes actuels, cerner les priorités et mettre en œuvre des solutions adaptées aux exigences de l’entreprise.",
 
     "approach.text2":
       "Aligner la technologie, les flux de travail et les outils numériques sur le fonctionnement de chaque entreprise. Établir des solutions faciles à gérer et capables d’évoluer selon les besoins.",
@@ -489,13 +486,13 @@ const translations = {
       "Mettre en œuvre",
 
     "approach.implement.text":
-      "Configurer et introduire des solutions et des flux de travail pratiques.",
+      "Configurer et introduire des solutions et des flux de travail.",
 
     "approach.support.title":
       "Soutenir",
 
     "approach.support.text":
-      "Maintenir, améliorer et soutenir les systèmes selon l’évolution des besoins d’affaires.",
+      "Maintenir et améliorer les systèmes au fil du temps.",
 
 
     "about.eyebrow":
@@ -511,16 +508,16 @@ const translations = {
       "Affaires et technologie",
 
     "about.text1":
-      "MISTechnologies réunit les systèmes d’affaires, la technologie financière, les TI et le développement numérique afin d’offrir un soutien pratique aux professionnels et aux petites entreprises.",
+      "MISTechnologies réunit les systèmes d’affaires, la technologie financière, les TI et le développement numérique afin de soutenir les professionnels et les petites entreprises.",
 
     "about.text2":
       "Mettre à profit l’expérience des logiciels d’affaires, des systèmes financiers, de l’amélioration des processus et du développement Web pour rendre la technologie utile, accessible et adaptée aux besoins de l’entreprise.",
 
     "about.point1":
-      "Expérience en systèmes d’affaires",
+      "Systèmes d’affaires",
 
     "about.point2":
-      "Expérience en technologie financière",
+      "Technologie financière",
 
     "about.point3":
       "Développement TI et numérique",
@@ -531,9 +528,6 @@ const translations = {
 
     "contact.title":
       "Commencer par une<br><span>conversation.</span>",
-
-    "contact.text":
-      "Définir le besoin d’affaires, déterminer le bon point de départ et établir une prochaine étape pratique.",
 
 
     "form.name":
@@ -571,7 +565,7 @@ const translations = {
 
 
     "footer.tagline":
-      "Systèmes d’affaires. Solutions numériques. Soutien pratique.",
+      "Systèmes d’affaires. Solutions numériques.",
 
     "footer.rights":
       "Tous droits réservés.",
@@ -868,6 +862,7 @@ if (contactForm) {
 
     if (!formStatus) return;
 
+    formStatus.dataset.i18n = key;
     formStatus.textContent = t(key);
     formStatus.dataset.state = state;
     formStatus.hidden = false;
