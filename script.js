@@ -35,7 +35,7 @@ const translations = {
       "Business Systems",
 
     "visual.organize":
-      "Organize",
+      "Streamline",
 
     "visual.systems":
       "Systems",
@@ -47,7 +47,7 @@ const translations = {
       "Workflows",
 
     "visual.create":
-      "Create",
+      "Build",
 
     "visual.solutions":
       "Solutions",
@@ -76,7 +76,7 @@ const translations = {
       "Financial Systems Operations & Administration",
 
     "services.one.text":
-      "Organize financial system operations, maintain system processes, and support system administration.",
+      "Manage financial system operations, maintain processes, and support day-to-day administration.",
 
     "services.one.item1":
       "Financial system operations",
@@ -104,7 +104,7 @@ const translations = {
       "Map business processes",
 
     "services.two.item2":
-      "Organize workflows",
+      "Create workflows",
 
     "services.two.item3":
       "Structure digital documentation",
@@ -320,7 +320,7 @@ const translations = {
       "Systèmes d’affaires",
 
     "visual.organize":
-      "Structurer",
+      "Optimiser",
 
     "visual.systems":
       "les systèmes",
@@ -332,7 +332,7 @@ const translations = {
       "les flux",
 
     "visual.create":
-      "Créer",
+      "Développer",
 
     "visual.solutions":
       "des solutions",
@@ -361,7 +361,7 @@ const translations = {
       "Opérations et administration des systèmes financiers",
 
     "services.one.text":
-      "Structurer les opérations des systèmes financiers, maintenir les processus et soutenir une administration quotidienne efficace et organisée.",
+      "Gérer les opérations des systèmes financiers, maintenir les processus et soutenir l’administration courante.",
 
     "services.one.item1":
       "Opérations des systèmes financiers",
@@ -389,7 +389,7 @@ const translations = {
       "Cartographier les processus",
 
     "services.two.item2":
-      "Organiser les flux de travail",
+      "Créer les flux de travail",
 
     "services.two.item3":
       "Structurer la documentation numérique",

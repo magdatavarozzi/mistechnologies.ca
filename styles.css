@@ -198,6 +198,8 @@ p {
 
   padding: 7px 12px;
 
+  min-height: 44px;
+
   display: inline-flex;
   align-items: center;
   gap: 7px;
@@ -1010,6 +1012,7 @@ p {
 .contact-email {
   display: inline-block;
 
+  padding-top: 10px;
   padding-bottom: 3px;
 
   border-bottom:
