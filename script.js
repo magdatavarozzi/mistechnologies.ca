@@ -270,7 +270,16 @@ const translations = {
       "Send Message",
 
     "form.note":
-      "The email application will open to send the message.",
+      "Messages are delivered to Info@MISTechnologies.ca.",
+
+    "form.sending":
+      "Sending…",
+
+    "form.success":
+      "Message sent. A reply will follow by email.",
+
+    "form.error":
+      "The message could not be sent. Please try again or write to Info@MISTechnologies.ca.",
 
 
     "footer.tagline":
@@ -549,7 +558,16 @@ const translations = {
       "Envoyer le message",
 
     "form.note":
-      "L’application de messagerie s’ouvrira pour envoyer le message.",
+      "Les messages sont acheminés à Info@MISTechnologies.ca.",
+
+    "form.sending":
+      "Envoi en cours…",
+
+    "form.success":
+      "Message envoyé. Une réponse suivra par courriel.",
+
+    "form.error":
+      "Le message n’a pas pu être envoyé. Veuillez réessayer ou écrire à Info@MISTechnologies.ca.",
 
 
     "footer.tagline":
@@ -831,71 +849,92 @@ if (menuToggle && navigation) {
 
 if (contactForm) {
 
+  const formStatus =
+    document.getElementById("formStatus");
+
+  const formSubject =
+    document.getElementById("formSubject");
+
+  const submitButton =
+    contactForm.querySelector('button[type="submit"]');
+
+
+  const t = (key) =>
+    (translations[currentLanguage] &&
+      translations[currentLanguage][key]) || "";
+
+
+  const showStatus = (key, state) => {
+
+    if (!formStatus) return;
+
+    formStatus.textContent = t(key);
+    formStatus.dataset.state = state;
+    formStatus.hidden = false;
+
+  };
+
+
   contactForm.addEventListener(
     "submit",
-    (event) => {
+    async (event) => {
 
       event.preventDefault();
+
+
+      const service =
+        String(
+          new FormData(contactForm).get("service") || ""
+        ).trim();
+
+
+      if (formSubject) {
+        formSubject.value =
+          currentLanguage === "fr"
+            ? `Demande de renseignements — ${service || "MISTechnologies"}`
+            : `Business inquiry — ${service || "MISTechnologies"}`;
+      }
 
 
       const formData =
         new FormData(contactForm);
 
 
-      const name =
-        String(
-          formData.get("name") || ""
-        ).trim();
+      if (submitButton) submitButton.disabled = true;
+
+      showStatus("form.sending", "pending");
 
 
-      const email =
-        String(
-          formData.get("email") || ""
-        ).trim();
+      try {
+
+        const response =
+          await fetch(contactForm.action, {
+            method: "POST",
+            body: formData,
+            headers: { Accept: "application/json" }
+          });
 
 
-      const service =
-        String(
-          formData.get("service") || ""
-        ).trim();
+        if (response.ok) {
 
+          contactForm.reset();
+          showStatus("form.success", "success");
 
-      const message =
-        String(
-          formData.get("message") || ""
-        ).trim();
+        } else {
 
+          showStatus("form.error", "error");
 
-      const subject =
-        currentLanguage === "fr"
-          ? `Demande de renseignements — ${service || "MISTechnologies"}`
-          : `Business inquiry — ${service || "MISTechnologies"}`;
+        }
 
+      } catch (error) {
 
-      const body =
-        currentLanguage === "fr"
-          ? (
-              `Nom : ${name}\n` +
-              `Courriel : ${email}\n` +
-              `Service : ${service || "Non précisé"}\n\n` +
-              `Message :\n${message}`
-            )
-          : (
-              `Name: ${name}\n` +
-              `Email: ${email}\n` +
-              `Service: ${service || "Not specified"}\n\n` +
-              `Message:\n${message}`
-            );
+        showStatus("form.error", "error");
 
+      } finally {
 
-      const mailto =
-        "mailto:Info@MISTechnologies.ca" +
-        `?subject=${encodeURIComponent(subject)}` +
-        `&body=${encodeURIComponent(body)}`;
+        if (submitButton) submitButton.disabled = false;
 
-
-      window.location.href =
-        mailto;
+      }
 
     }
   );

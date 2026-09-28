@@ -1093,6 +1093,36 @@ p {
   font-size: 0.72rem;
 }
 
+.form-status {
+  margin-top: 8px;
+
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+.form-status[data-state="success"] {
+  color: #15803D;
+}
+
+.form-status[data-state="error"] {
+  color: #B91C1C;
+}
+
+.form-honeypot {
+  position: absolute;
+  left: -9999px;
+
+  width: 1px;
+  height: 1px;
+
+  opacity: 0;
+}
+
+.contact-form .btn:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
 .site-footer {
   padding: 35px 0;
 

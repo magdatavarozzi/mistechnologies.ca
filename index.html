@@ -740,7 +740,29 @@
         </div>
 
 
-        <form class="contact-form reveal" id="contactForm">
+        <form
+          class="contact-form reveal"
+          id="contactForm"
+          action="https://formspree.io/f/mdekyagw"
+          method="POST"
+        >
+
+          <!-- Formspree: email subject and spam honeypot -->
+          <input
+            type="hidden"
+            name="_subject"
+            id="formSubject"
+            value="Business inquiry — MISTechnologies"
+          >
+
+          <input
+            type="text"
+            name="_gotcha"
+            class="form-honeypot"
+            tabindex="-1"
+            autocomplete="off"
+            aria-hidden="true"
+          >
 
           <div class="form-group">
 
@@ -878,8 +900,16 @@
             class="form-note"
             data-i18n="form.note"
           >
-            The email application will open to send the message.
+            Messages are delivered to Info@MISTechnologies.ca.
           </p>
+
+          <p
+            class="form-status"
+            id="formStatus"
+            role="status"
+            aria-live="polite"
+            hidden
+          ></p>
 
         </form>
 
