@@ -710,7 +710,7 @@ p {
 .service-top {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
 
   margin-bottom: 27px;
 }

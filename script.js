@@ -73,22 +73,22 @@ const translations = {
       "FINANCIAL SYSTEMS",
 
     "services.one.title":
-      "Financial Systems Operations & Administration",
+      "Financial Systems Operations & System Administration",
 
     "services.one.text":
-      "Manage financial system operations, maintain processes, and support day-to-day administration.",
+      "Manage financial system operations, maintain system processes, and provide system administration.",
 
     "services.one.item1":
-      "Financial system operations",
+      "Accounting system setup and configuration",
 
     "services.one.item2":
-      "System administration",
+      "Chart of accounts mapping and data conversion",
 
     "services.one.item3":
-      "Transaction organization",
+      "System testing and validation",
 
     "services.one.item4":
-      "System support",
+      "User setup and access rights",
 
 
     "services.two.label":
@@ -98,19 +98,19 @@ const translations = {
       "Workflow & Process Management",
 
     "services.two.text":
-      "Map business processes, structure administrative workflows, and simplify the movement of information and tasks.",
+      "Map business processes, document workflows, and simplify how information and tasks move.",
 
     "services.two.item1":
-      "Map business processes",
+      "Process mapping workshops",
 
     "services.two.item2":
-      "Create workflows",
+      "Workflow documentation",
 
     "services.two.item3":
-      "Structure digital documentation",
+      "Custom procedure guides",
 
     "services.two.item4":
-      "Improve administrative flow",
+      "Alignment of workflows with business systems",
 
 
     "services.three.label":
@@ -120,19 +120,19 @@ const translations = {
       "Business Systems Consulting",
 
     "services.three.text":
-      "Evaluate business software, configure systems, connect platforms, and resolve technology issues.",
+      "Evaluate business software, align cloud platforms with business needs, and coordinate with software vendors.",
 
     "services.three.item1":
-      "Evaluate software options",
+      "Software evaluation and selection",
 
     "services.three.item2":
-      "Configure business systems",
+      "Cloud and SaaS platform alignment",
 
     "services.three.item3":
-      "Connect digital platforms",
+      "Vendor coordination and timelines",
 
     "services.three.item4":
-      "Troubleshoot system issues",
+      "Testing against business requirements",
 
 
     "services.four.label":
@@ -145,38 +145,56 @@ const translations = {
       "Design modern responsive websites and build simple digital tools that support business objectives.",
 
     "services.four.item1":
-      "Design responsive websites",
+      "Responsive business websites",
 
     "services.four.item2":
-      "Develop modern web experiences",
+      "Bilingual English/French sites",
 
     "services.four.item3":
-      "Build simple digital tools",
+      "Online forms and contact tools",
 
     "services.four.item4":
-      "Maintain and refine websites",
+      "Website updates and maintenance",
 
 
     "services.five.label":
       "NEEDS ANALYSIS",
 
     "services.five.title":
-      "Turnkey Solutions & Needs Analysis",
+      "Needs Analysis & Implementation",
 
     "services.five.text":
-      "Analyze business needs, define the right solution, and coordinate implementation.",
+      "Analyze business needs, define the right solution, and coordinate implementation from start to finish.",
 
     "services.five.item1":
-      "Execute comprehensive needs analysis",
+      "Business needs analysis",
 
     "services.five.item2":
-      "Define solution requirements",
+      "Solution requirements",
 
     "services.five.item3":
-      "Coordinate implementation",
+      "Deployment coordination",
 
     "services.five.item4":
-      "Oversee delivery from start to finish",
+      "Post-implementation review",
+
+    "services.six.title":
+      "Ongoing System Support",
+
+    "services.six.text":
+      "Regular updates, system administration, and user support for business and accounting systems after implementation.",
+
+    "services.six.item1":
+      "Regular system updates",
+
+    "services.six.item2":
+      "System administration",
+
+    "services.six.item3":
+      "User support",
+
+    "services.six.item4":
+      "Training and documentation",
 
 
     "approach.eyebrow":
@@ -361,19 +379,19 @@ const translations = {
       "Opérations et administration des systèmes financiers",
 
     "services.one.text":
-      "Gérer les opérations des systèmes financiers, maintenir les processus et soutenir l’administration courante.",
+      "Gérer les opérations des systèmes financiers, maintenir les processus des systèmes et assurer l’administration des systèmes.",
 
     "services.one.item1":
-      "Opérations des systèmes financiers",
+      "Mise en place et configuration de systèmes comptables",
 
     "services.one.item2":
-      "Administration des systèmes",
+      "Plan comptable et conversion de données",
 
     "services.one.item3":
-      "Organisation des transactions",
+      "Tests et validation des systèmes",
 
     "services.one.item4":
-      "Soutien aux systèmes",
+      "Configuration des utilisateurs et des accès",
 
 
     "services.two.label":
@@ -383,19 +401,19 @@ const translations = {
       "Gestion des flux de travail et des processus",
 
     "services.two.text":
-      "Cartographier les processus, structurer les flux administratifs et simplifier la circulation de l’information et des tâches.",
+      "Cartographier les processus d’affaires, documenter les flux de travail et simplifier la circulation de l’information et des tâches.",
 
     "services.two.item1":
-      "Cartographier les processus",
+      "Ateliers de cartographie des processus",
 
     "services.two.item2":
-      "Créer les flux de travail",
+      "Documentation des flux de travail",
 
     "services.two.item3":
-      "Structurer la documentation numérique",
+      "Guides de procédures personnalisés",
 
     "services.two.item4":
-      "Améliorer les flux administratifs",
+      "Arrimage des flux de travail aux systèmes d’affaires",
 
 
     "services.three.label":
@@ -405,19 +423,19 @@ const translations = {
       "Conseil en systèmes d’affaires",
 
     "services.three.text":
-      "Évaluer les logiciels d’affaires, configurer les systèmes, connecter les plateformes et résoudre les enjeux technologiques.",
+      "Évaluer les logiciels d’affaires, arrimer les plateformes infonuagiques aux besoins de l’entreprise et assurer la coordination avec les fournisseurs de logiciels.",
 
     "services.three.item1":
-      "Évaluer les options logicielles",
+      "Évaluation et sélection de logiciels",
 
     "services.three.item2":
-      "Configurer les systèmes d’affaires",
+      "Arrimage des plateformes infonuagiques et SaaS",
 
     "services.three.item3":
-      "Connecter les plateformes numériques",
+      "Coordination des fournisseurs et échéanciers",
 
     "services.three.item4":
-      "Résoudre les problèmes de systèmes",
+      "Tests selon les exigences d’affaires",
 
 
     "services.four.label":
@@ -430,38 +448,56 @@ const translations = {
       "Concevoir des sites Web modernes et adaptatifs ainsi que des outils numériques simples qui répondent aux objectifs de l’entreprise.",
 
     "services.four.item1":
-      "Concevoir des sites Web adaptatifs",
+      "Sites Web d’affaires adaptatifs",
 
     "services.four.item2":
-      "Développer des expériences Web modernes",
+      "Sites bilingues anglais/français",
 
     "services.four.item3":
-      "Créer des outils numériques simples",
+      "Formulaires en ligne et outils de contact",
 
     "services.four.item4":
-      "Maintenir et améliorer les sites Web",
+      "Mises à jour et entretien de sites Web",
 
 
     "services.five.label":
       "ANALYSE DES BESOINS",
 
     "services.five.title":
-      "Solutions clés en main et analyse des besoins",
+      "Analyse des besoins et mise en œuvre",
 
     "services.five.text":
-      "Analyser les besoins d’affaires, définir la bonne solution et coordonner la mise en œuvre.",
+      "Analyser les besoins d’affaires, définir la bonne solution et coordonner la mise en œuvre du début à la fin.",
 
     "services.five.item1":
-      "Effectuer une analyse complète des besoins",
+      "Analyse des besoins d’affaires",
 
     "services.five.item2":
-      "Définir les exigences de la solution",
+      "Exigences de la solution",
 
     "services.five.item3":
-      "Coordonner la mise en œuvre",
+      "Coordination du déploiement",
 
     "services.five.item4":
-      "Superviser la réalisation du début à la fin",
+      "Revue après la mise en œuvre",
+
+    "services.six.title":
+      "Soutien continu des systèmes",
+
+    "services.six.text":
+      "Mises à jour régulières, administration des systèmes et soutien aux utilisateurs pour les systèmes d’affaires et comptables après la mise en œuvre.",
+
+    "services.six.item1":
+      "Mises à jour régulières des systèmes",
+
+    "services.six.item2":
+      "Administration des systèmes",
+
+    "services.six.item3":
+      "Soutien aux utilisateurs",
+
+    "services.six.item4":
+      "Formation et documentation",
 
 
     "approach.eyebrow":
