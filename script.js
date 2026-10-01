@@ -63,7 +63,7 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Solutions for<br><span>everyday business needs.</span>",
+      "Solutions for<br><span>business needs.</span>",
 
     "services.one.title":
       "Financial Systems Operations & System Administration",
@@ -105,7 +105,7 @@ const translations = {
       "Web Design & Digital Solutions",
 
     "services.four.text":
-      "Clean, responsive websites and simple digital tools.",
+      "Clean, responsive websites.",
 
     "services.four.item1":
       "Business websites",
@@ -114,6 +114,9 @@ const translations = {
       "Bilingual English/French sites",
 
     "services.four.item3":
+      "Digital tools",
+
+    "services.four.item4":
       "Website recommendations and updates",
 
     "services.five.title":
@@ -138,10 +141,10 @@ const translations = {
       "Ongoing System Support",
 
     "services.six.text":
-      "Updates and support for business and financial systems after implementation.",
+      "Updates and support for business and financial systems.",
 
     "services.six.item1":
-      "Financial system updates",
+      "System updates",
 
     "services.six.item2":
       "User support",
@@ -304,7 +307,7 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Des solutions pour<br><span>les besoins quotidiens.</span>",
+      "Des solutions pour<br><span>les besoins d’affaires.</span>",
 
     "services.one.title":
       "Opérations et administration des systèmes financiers",
@@ -346,7 +349,7 @@ const translations = {
       "Conception Web et solutions numériques",
 
     "services.four.text":
-      "Sites Web épurés et adaptatifs, et outils numériques simples.",
+      "Sites Web épurés et adaptatifs.",
 
     "services.four.item1":
       "Sites Web d’affaires",
@@ -355,6 +358,9 @@ const translations = {
       "Sites bilingues anglais/français",
 
     "services.four.item3":
+      "Outils numériques",
+
+    "services.four.item4":
       "Recommandations et mises à jour de sites Web",
 
     "services.five.title":
@@ -379,10 +385,10 @@ const translations = {
       "Soutien continu des systèmes",
 
     "services.six.text":
-      "Mises à jour et soutien des systèmes d’affaires et financiers après la mise en œuvre.",
+      "Mises à jour et soutien des systèmes d’affaires et financiers.",
 
     "services.six.item1":
-      "Mises à jour des systèmes financiers",
+      "Mises à jour des systèmes",
 
     "services.six.item2":
       "Soutien aux utilisateurs",
