@@ -81,7 +81,7 @@ const translations = {
       "Testing and validation",
 
     "services.one.item4":
-      "User and access management",
+      "Access management",
 
     "services.two.title":
       "Workflow & Process Management",
@@ -93,13 +93,13 @@ const translations = {
       "Process mapping",
 
     "services.two.item2":
-      "Workflow documentation",
+      "Process improvement",
 
     "services.two.item3":
       "Procedure guides",
 
     "services.two.item4":
-      "Workflow alignment with systems",
+      "Workflow integration",
 
     "services.four.title":
       "Web Design & Digital Solutions",
@@ -150,13 +150,13 @@ const translations = {
       "System updates",
 
     "services.six.item2":
-      "User support",
+      "Technical support",
 
     "services.six.item3":
-      "System administration",
+      "Training",
 
     "services.six.item4":
-      "Training and documentation",
+      "System documentation",
 
 
     "approach.eyebrow":
@@ -340,7 +340,7 @@ const translations = {
       "Tests et validation",
 
     "services.one.item4":
-      "Gestion des utilisateurs et des accès",
+      "Gestion des accès",
 
     "services.two.title":
       "Gestion des flux de travail et des processus",
@@ -352,13 +352,13 @@ const translations = {
       "Cartographie des processus",
 
     "services.two.item2":
-      "Documentation des flux de travail",
+      "Amélioration des processus",
 
     "services.two.item3":
       "Guides de procédures",
 
     "services.two.item4":
-      "Arrimage des flux de travail aux systèmes",
+      "Intégration des flux de travail",
 
     "services.four.title":
       "Conception Web et solutions numériques",
@@ -409,13 +409,13 @@ const translations = {
       "Mises à jour des systèmes",
 
     "services.six.item2":
-      "Soutien aux utilisateurs",
+      "Soutien technique",
 
     "services.six.item3":
-      "Administration des systèmes",
+      "Formation",
 
     "services.six.item4":
-      "Formation et documentation",
+      "Documentation des systèmes",
 
 
     "approach.eyebrow":
