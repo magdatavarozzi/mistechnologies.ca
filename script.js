@@ -11,12 +11,12 @@ const translations = {
     "nav.services": "Services",
     "nav.approach": "Approach",
     "nav.about": "About",
-    "nav.contact": "Let's Talk",
+    "nav.contact": "Contact",
     "nav.contactShort": "Contact",
 
 
     "hero.eyebrow":
-      "MONTREAL • SINCE 2001",
+      "MONTREAL • CLOUD-BASED SYSTEMS",
 
     "hero.title":
       "Business systems.<br>Digital solutions.<br><span>Ongoing support.</span>",
@@ -28,35 +28,35 @@ const translations = {
       "Explore Services",
 
     "hero.secondary":
-      "Let's Talk",
+      "Contact",
 
 
     "visual.title":
       "Business Systems",
 
     "visual.organize":
-      "Streamline",
+      "Financial systems",
 
     "visual.systems":
-      "Systems",
+      "Operations & administration",
 
     "visual.simplify":
-      "Simplify",
-
-    "visual.workflows":
       "Workflows",
 
+    "visual.workflows":
+      "Mapping & documentation",
+
     "visual.create":
-      "Build",
+      "Websites",
 
     "visual.solutions":
-      "Solutions",
+      "Design & updates",
 
     "visual.financial":
-      "Financial Systems",
+      "Cloud-based systems",
 
     "visual.digital":
-      "Digital Solutions",
+      "Bilingual service",
 
 
     "services.eyebrow":
@@ -66,13 +66,13 @@ const translations = {
       "Solutions for<br><span>business needs.</span>",
 
     "services.one.title":
-      "Financial Systems Operations & System Administration",
+      "Financial Operations & System Administration",
 
     "services.one.text":
       "Operation, maintenance, and administration of financial systems.",
 
     "services.one.item1":
-      "Financial system implementation",
+      "Financial system operations",
 
     "services.one.item2":
       "System migrations",
@@ -119,17 +119,20 @@ const translations = {
     "services.four.item4":
       "Website recommendations and updates",
 
+    "services.four.link":
+      "Portfolio: mtwebdesigns.ca →",
+
     "services.five.title":
       "Systems Consulting & Implementation",
 
     "services.five.text":
-      "Evaluation of needs, proposal of systems, and coordination of implementation.",
+      "Needs evaluation, system recommendations, and implementation coordination.",
 
     "services.five.item1":
       "Requirements assessment",
 
     "services.five.item2":
-      "Cloud-based systems (SaaS)",
+      "Cloud-based systems",
 
     "services.five.item3":
       "System integration",
@@ -196,6 +199,9 @@ const translations = {
     "about.text1":
       "MISTechnologies brings together financial systems, IT, and digital development.",
 
+    "about.text2":
+      "Cloud-based systems, set up and maintained for professionals and small businesses.",
+
 
     "contact.eyebrow":
       "CONTACT",
@@ -228,6 +234,12 @@ const translations = {
     "form.note":
       "Messages are delivered to Info@MISTechnologies.ca.",
 
+    "form.privacyLink":
+      "Privacy policy",
+
+    "form.privacy":
+      "Information sent through this form is used only to reply.",
+
     "form.sending":
       "Sending…",
 
@@ -244,6 +256,9 @@ const translations = {
     "footer.rights":
       "All rights reserved.",
 
+    "footer.privacy":
+      "Privacy",
+
     "footer.location":
       "Montreal, Quebec"
   },
@@ -255,12 +270,12 @@ const translations = {
     "nav.services": "Services",
     "nav.approach": "Approche",
     "nav.about": "À propos",
-    "nav.contact": "Parlons-en",
+    "nav.contact": "Contact",
     "nav.contactShort": "Contact",
 
 
     "hero.eyebrow":
-      "MONTRÉAL • DEPUIS 2001",
+      "MONTRÉAL • SYSTÈMES INFONUAGIQUES",
 
     "hero.title":
       "Systèmes d’affaires.<br>Solutions numériques.<br><span>Soutien continu.</span>",
@@ -272,35 +287,35 @@ const translations = {
       "Voir les services",
 
     "hero.secondary":
-      "Parlons-en",
+      "Contact",
 
 
     "visual.title":
       "Systèmes d’affaires",
 
     "visual.organize":
-      "Optimiser",
-
-    "visual.systems":
-      "les systèmes",
-
-    "visual.simplify":
-      "Simplifier",
-
-    "visual.workflows":
-      "les flux",
-
-    "visual.create":
-      "Développer",
-
-    "visual.solutions":
-      "des solutions",
-
-    "visual.financial":
       "Systèmes financiers",
 
+    "visual.systems":
+      "Opérations et administration",
+
+    "visual.simplify":
+      "Flux de travail",
+
+    "visual.workflows":
+      "Cartographie et documentation",
+
+    "visual.create":
+      "Sites Web",
+
+    "visual.solutions":
+      "Conception et mises à jour",
+
+    "visual.financial":
+      "Systèmes infonuagiques",
+
     "visual.digital":
-      "Solutions numériques",
+      "Service bilingue",
 
 
     "services.eyebrow":
@@ -310,13 +325,13 @@ const translations = {
       "Des solutions pour<br><span>les besoins d’affaires.</span>",
 
     "services.one.title":
-      "Opérations et administration des systèmes financiers",
+      "Opérations financières et administration des systèmes",
 
     "services.one.text":
       "Exploitation, maintenance et administration des systèmes financiers.",
 
     "services.one.item1":
-      "Mise en œuvre de systèmes financiers",
+      "Exploitation des systèmes financiers",
 
     "services.one.item2":
       "Migration de systèmes",
@@ -355,7 +370,7 @@ const translations = {
       "Conception de sites Web",
 
     "services.four.item2":
-      "Sites bilingues anglais/français",
+      "Sites bilingues français/anglais",
 
     "services.four.item3":
       "Outils numériques",
@@ -363,17 +378,20 @@ const translations = {
     "services.four.item4":
       "Recommandations et mises à jour de sites Web",
 
+    "services.four.link":
+      "Portfolio : mtwebdesigns.ca →",
+
     "services.five.title":
-      "Consultation et mise en œuvre de systèmes",
+      "Services-conseils et mise en œuvre de systèmes",
 
     "services.five.text":
-      "Évaluation des besoins, proposition de systèmes et coordination de la mise en œuvre.",
+      "Évaluation des besoins, recommandation de systèmes et coordination de la mise en œuvre.",
 
     "services.five.item1":
       "Évaluation des exigences",
 
     "services.five.item2":
-      "Systèmes infonuagiques (SaaS)",
+      "Systèmes infonuagiques",
 
     "services.five.item3":
       "Intégration de systèmes",
@@ -440,6 +458,9 @@ const translations = {
     "about.text1":
       "MISTechnologies réunit les systèmes financiers, les TI et le développement numérique.",
 
+    "about.text2":
+      "Systèmes infonuagiques mis en place et maintenus pour les professionnels et les petites entreprises.",
+
 
     "contact.eyebrow":
       "CONTACT",
@@ -472,6 +493,12 @@ const translations = {
     "form.note":
       "Les messages sont acheminés à Info@MISTechnologies.ca.",
 
+    "form.privacyLink":
+      "Politique de confidentialité",
+
+    "form.privacy":
+      "Les renseignements envoyés par ce formulaire servent uniquement à répondre.",
+
     "form.sending":
       "Envoi en cours…",
 
@@ -487,6 +514,9 @@ const translations = {
 
     "footer.rights":
       "Tous droits réservés.",
+
+    "footer.privacy":
+      "Confidentialité",
 
     "footer.location":
       "Montréal, Québec"
