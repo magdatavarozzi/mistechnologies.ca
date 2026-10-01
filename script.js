@@ -16,13 +16,13 @@ const translations = {
 
 
     "hero.eyebrow":
-      "MONTREAL • CLOUD-BASED SYSTEMS",
+      "MONTREAL • SINCE 2001",
 
     "hero.title":
       "Business systems.<br>Digital solutions.<br><span>Ongoing support.</span>",
 
     "hero.text":
-      "Systems, workflows, and digital tools for professionals and small businesses.",
+      "For professionals and small businesses.",
 
     "hero.primary":
       "Explore Services",
@@ -63,7 +63,7 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Solutions for<br><span>business needs.</span>",
+      "Solutions for<br><span>businesses.</span>",
 
     "services.one.title":
       "Financial Operations & System Administration",
@@ -141,7 +141,7 @@ const translations = {
       "Deployment coordination",
 
     "services.six.title":
-      "Ongoing System Support",
+      "System Support & Maintenance",
 
     "services.six.text":
       "Updates and support for financial and operational systems.",
@@ -200,7 +200,7 @@ const translations = {
       "MISTechnologies brings together financial systems, IT, and digital development.",
 
     "about.text2":
-      "Cloud-based systems, set up and maintained for professionals and small businesses.",
+      "Set up and maintained to fit your business.",
 
 
     "contact.eyebrow":
@@ -275,13 +275,13 @@ const translations = {
 
 
     "hero.eyebrow":
-      "MONTRÉAL • SYSTÈMES INFONUAGIQUES",
+      "MONTRÉAL • DEPUIS 2001",
 
     "hero.title":
       "Systèmes d’affaires.<br>Solutions numériques.<br><span>Soutien continu.</span>",
 
     "hero.text":
-      "Systèmes, flux de travail et outils numériques pour les professionnels et les petites entreprises.",
+      "Pour les professionnels et les petites entreprises.",
 
     "hero.primary":
       "Voir les services",
@@ -322,7 +322,7 @@ const translations = {
       "SERVICES",
 
     "services.title":
-      "Des solutions pour<br><span>les besoins d’affaires.</span>",
+      "Des solutions<br><span>pour les entreprises.</span>",
 
     "services.one.title":
       "Opérations financières et administration des systèmes",
@@ -400,7 +400,7 @@ const translations = {
       "Coordination du déploiement",
 
     "services.six.title":
-      "Soutien continu des systèmes",
+      "Support et maintenance des systèmes",
 
     "services.six.text":
       "Mises à jour et soutien des systèmes financiers et opérationnels.",
@@ -459,7 +459,7 @@ const translations = {
       "MISTechnologies réunit les systèmes financiers, les TI et le développement numérique.",
 
     "about.text2":
-      "Systèmes infonuagiques mis en place et maintenus pour les professionnels et les petites entreprises.",
+      "Mis en place et adaptés à votre entreprise.",
 
 
     "contact.eyebrow":
