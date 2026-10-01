@@ -65,133 +65,89 @@ const translations = {
     "services.title":
       "Solutions for<br><span>everyday business needs.</span>",
 
-    "services.intro":
-      "Address business systems, financial operations, workflows, technology, and digital development with focused support.",
-
-
-    "services.one.label":
-      "FINANCIAL SYSTEMS",
-
     "services.one.title":
       "Financial Systems Operations & System Administration",
 
     "services.one.text":
-      "Manage financial system operations, maintain system processes, and provide system administration.",
+      "Operation, maintenance, and administration of financial systems.",
 
     "services.one.item1":
-      "Accounting system setup and configuration",
+      "Financial system implementation",
 
     "services.one.item2":
-      "Chart of accounts mapping and data conversion",
+      "System migrations",
 
     "services.one.item3":
-      "System testing and validation",
+      "Testing and validation",
 
     "services.one.item4":
-      "User setup and access rights",
-
-
-    "services.two.label":
-      "WORKFLOWS",
+      "User and access management",
 
     "services.two.title":
       "Workflow & Process Management",
 
     "services.two.text":
-      "Map business processes, document workflows, and simplify how information and tasks move.",
+      "Business processes and workflows, mapped and simplified.",
 
     "services.two.item1":
-      "Process mapping workshops",
+      "Process mapping",
 
     "services.two.item2":
       "Workflow documentation",
 
     "services.two.item3":
-      "Custom procedure guides",
+      "Procedure guides",
 
     "services.two.item4":
-      "Alignment of workflows with business systems",
-
-
-    "services.three.label":
-      "BUSINESS TECHNOLOGY",
-
-    "services.three.title":
-      "Business Systems Consulting",
-
-    "services.three.text":
-      "Evaluate business software, align cloud platforms with business needs, and coordinate with software vendors.",
-
-    "services.three.item1":
-      "Software evaluation and selection",
-
-    "services.three.item2":
-      "Cloud and SaaS platform alignment",
-
-    "services.three.item3":
-      "Vendor coordination and timelines",
-
-    "services.three.item4":
-      "Testing against business requirements",
-
-
-    "services.four.label":
-      "DIGITAL DEVELOPMENT",
+      "Alignment with business systems",
 
     "services.four.title":
       "Web Design & Digital Solutions",
 
     "services.four.text":
-      "Design modern responsive websites and build simple digital tools that support business objectives.",
+      "Clean, responsive websites and simple digital tools.",
 
     "services.four.item1":
-      "Responsive business websites",
+      "Business websites",
 
     "services.four.item2":
       "Bilingual English/French sites",
 
     "services.four.item3":
-      "Online forms and contact tools",
-
-    "services.four.item4":
-      "Website updates and maintenance",
-
-
-    "services.five.label":
-      "NEEDS ANALYSIS",
+      "Website recommendations and updates",
 
     "services.five.title":
-      "Needs Analysis & Implementation",
+      "Systems Consulting & Implementation",
 
     "services.five.text":
-      "Analyze business needs, define the right solution, and coordinate implementation from start to finish.",
+      "Evaluation of business needs, proposal of systems, and coordination of implementation.",
 
     "services.five.item1":
-      "Business needs analysis",
+      "Requirements assessment",
 
     "services.five.item2":
-      "Solution requirements",
+      "Cloud-based systems (SaaS)",
 
     "services.five.item3":
-      "Deployment coordination",
+      "System integration",
 
     "services.five.item4":
-      "Post-implementation review",
+      "Deployment coordination",
 
     "services.six.title":
       "Ongoing System Support",
 
     "services.six.text":
-      "Regular updates, system administration, and user support for business and accounting systems after implementation.",
+      "Updates and support for business and financial systems after implementation.",
 
     "services.six.item1":
-      "Regular system updates",
+      "Financial system updates",
 
     "services.six.item2":
-      "System administration",
+      "User support",
 
     "services.six.item3":
-      "User support",
+      "System administration",
 
     "services.six.item4":
       "Training and documentation",
@@ -203,11 +159,8 @@ const translations = {
     "approach.title":
       "Streamline systems.<br><span>Simplify business.</span>",
 
-    "approach.text1":
-      "Analyze current systems, identify priorities, and implement solutions around business requirements.",
-
     "approach.text2":
-      "Align technology, workflows, and digital tools with the way each business operates. Establish manageable solutions that can evolve as needs change.",
+      "Technology, workflows, and digital tools aligned with business operations.",
 
     "approach.evaluate.title":
       "Evaluate",
@@ -232,28 +185,13 @@ const translations = {
       "ABOUT MISTECHNOLOGIES",
 
     "about.title":
-      "Business experience meets <span>technology.</span>",
-
-    "about.since":
-      "Since 2001",
+      "Systems that fit <span>the business.</span>",
 
     "about.business":
       "Business & Technology",
 
     "about.text1":
       "MISTechnologies brings together business systems, financial technology, IT, and digital development to support professionals and small businesses.",
-
-    "about.text2":
-      "Apply experience with business software, financial systems, process improvement, and web development to make technology useful, manageable, and aligned with business needs.",
-
-    "about.point1":
-      "Business systems",
-
-    "about.point2":
-      "Financial technology",
-
-    "about.point3":
-      "IT & digital development",
 
 
     "contact.eyebrow":
@@ -368,133 +306,89 @@ const translations = {
     "services.title":
       "Des solutions pour<br><span>les besoins quotidiens.</span>",
 
-    "services.intro":
-      "Aborder les systèmes d’affaires, les opérations financières, les flux de travail, la technologie et le développement numérique avec un soutien ciblé.",
-
-
-    "services.one.label":
-      "SYSTÈMES FINANCIERS",
-
     "services.one.title":
       "Opérations et administration des systèmes financiers",
 
     "services.one.text":
-      "Gérer les opérations des systèmes financiers, maintenir les processus des systèmes et assurer l’administration des systèmes.",
+      "Exploitation, maintenance et administration des systèmes financiers.",
 
     "services.one.item1":
-      "Mise en place et configuration de systèmes comptables",
+      "Mise en œuvre de systèmes financiers",
 
     "services.one.item2":
-      "Plan comptable et conversion de données",
+      "Migration de systèmes",
 
     "services.one.item3":
-      "Tests et validation des systèmes",
+      "Tests et validation",
 
     "services.one.item4":
-      "Configuration des utilisateurs et des accès",
-
-
-    "services.two.label":
-      "FLUX DE TRAVAIL",
+      "Gestion des utilisateurs et des accès",
 
     "services.two.title":
       "Gestion des flux de travail et des processus",
 
     "services.two.text":
-      "Cartographier les processus d’affaires, documenter les flux de travail et simplifier la circulation de l’information et des tâches.",
+      "Processus d’affaires et flux de travail cartographiés et simplifiés.",
 
     "services.two.item1":
-      "Ateliers de cartographie des processus",
+      "Cartographie des processus",
 
     "services.two.item2":
       "Documentation des flux de travail",
 
     "services.two.item3":
-      "Guides de procédures personnalisés",
+      "Guides de procédures",
 
     "services.two.item4":
-      "Arrimage des flux de travail aux systèmes d’affaires",
-
-
-    "services.three.label":
-      "TECHNOLOGIE D’AFFAIRES",
-
-    "services.three.title":
-      "Conseil en systèmes d’affaires",
-
-    "services.three.text":
-      "Évaluer les logiciels d’affaires, arrimer les plateformes infonuagiques aux besoins de l’entreprise et assurer la coordination avec les fournisseurs de logiciels.",
-
-    "services.three.item1":
-      "Évaluation et sélection de logiciels",
-
-    "services.three.item2":
-      "Arrimage des plateformes infonuagiques et SaaS",
-
-    "services.three.item3":
-      "Coordination des fournisseurs et échéanciers",
-
-    "services.three.item4":
-      "Tests selon les exigences d’affaires",
-
-
-    "services.four.label":
-      "DÉVELOPPEMENT NUMÉRIQUE",
+      "Arrimage aux systèmes d’affaires",
 
     "services.four.title":
       "Conception Web et solutions numériques",
 
     "services.four.text":
-      "Concevoir des sites Web modernes et adaptatifs ainsi que des outils numériques simples qui répondent aux objectifs de l’entreprise.",
+      "Sites Web épurés et adaptatifs, et outils numériques simples.",
 
     "services.four.item1":
-      "Sites Web d’affaires adaptatifs",
+      "Sites Web d’affaires",
 
     "services.four.item2":
       "Sites bilingues anglais/français",
 
     "services.four.item3":
-      "Formulaires en ligne et outils de contact",
-
-    "services.four.item4":
-      "Mises à jour et entretien de sites Web",
-
-
-    "services.five.label":
-      "ANALYSE DES BESOINS",
+      "Recommandations et mises à jour de sites Web",
 
     "services.five.title":
-      "Analyse des besoins et mise en œuvre",
+      "Consultation et mise en œuvre de systèmes",
 
     "services.five.text":
-      "Analyser les besoins d’affaires, définir la bonne solution et coordonner la mise en œuvre du début à la fin.",
+      "Évaluation des besoins d’affaires, proposition de systèmes et coordination de la mise en œuvre.",
 
     "services.five.item1":
-      "Analyse des besoins d’affaires",
+      "Évaluation des exigences",
 
     "services.five.item2":
-      "Exigences de la solution",
+      "Systèmes infonuagiques (SaaS)",
 
     "services.five.item3":
-      "Coordination du déploiement",
+      "Intégration de systèmes",
 
     "services.five.item4":
-      "Revue après la mise en œuvre",
+      "Coordination du déploiement",
 
     "services.six.title":
       "Soutien continu des systèmes",
 
     "services.six.text":
-      "Mises à jour régulières, administration des systèmes et soutien aux utilisateurs pour les systèmes d’affaires et comptables après la mise en œuvre.",
+      "Mises à jour et soutien des systèmes d’affaires et financiers après la mise en œuvre.",
 
     "services.six.item1":
-      "Mises à jour régulières des systèmes",
+      "Mises à jour des systèmes financiers",
 
     "services.six.item2":
-      "Administration des systèmes",
+      "Soutien aux utilisateurs",
 
     "services.six.item3":
-      "Soutien aux utilisateurs",
+      "Administration des systèmes",
 
     "services.six.item4":
       "Formation et documentation",
@@ -504,13 +398,10 @@ const translations = {
       "L’APPROCHE",
 
     "approach.title":
-      "Structurer les systèmes.<br><span>Simplifier l’entreprise.</span>",
-
-    "approach.text1":
-      "Analyser les systèmes actuels, cerner les priorités et mettre en œuvre des solutions adaptées aux exigences de l’entreprise.",
+      "Optimiser les systèmes.<br><span>Simplifier l’entreprise.</span>",
 
     "approach.text2":
-      "Aligner la technologie, les flux de travail et les outils numériques sur le fonctionnement de chaque entreprise. Établir des solutions faciles à gérer et capables d’évoluer selon les besoins.",
+      "Technologie, flux de travail et outils numériques arrimés aux opérations de l’entreprise.",
 
     "approach.evaluate.title":
       "Évaluer",
@@ -535,28 +426,13 @@ const translations = {
       "À PROPOS DE MISTECHNOLOGIES",
 
     "about.title":
-      "L’expérience d’affaires au service de la <span>technologie.</span>",
-
-    "about.since":
-      "Depuis 2001",
+      "Des systèmes adaptés <span>à l’entreprise.</span>",
 
     "about.business":
       "Affaires et technologie",
 
     "about.text1":
       "MISTechnologies réunit les systèmes d’affaires, la technologie financière, les TI et le développement numérique afin de soutenir les professionnels et les petites entreprises.",
-
-    "about.text2":
-      "Mettre à profit l’expérience des logiciels d’affaires, des systèmes financiers, de l’amélioration des processus et du développement Web pour rendre la technologie utile, accessible et adaptée aux besoins de l’entreprise.",
-
-    "about.point1":
-      "Systèmes d’affaires",
-
-    "about.point2":
-      "Technologie financière",
-
-    "about.point3":
-      "Développement TI et numérique",
 
 
     "contact.eyebrow":

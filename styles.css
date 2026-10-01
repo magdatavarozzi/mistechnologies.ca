@@ -748,6 +748,18 @@ p {
   list-style: none;
 }
 
+.service-card-wide {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 761px) {
+  .service-card-wide .service-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 33px;
+  }
+}
+
 .service-list li {
   padding: 9px 0;
 
