@@ -22,7 +22,7 @@ const translations = {
       "Business systems.<br>Digital solutions.<br><span>Ongoing support.</span>",
 
     "hero.text":
-      "Services that help professionals and small businesses streamline systems, simplify workflows, and put digital solutions in place.",
+      "Systems, workflows, and digital tools for professionals and small businesses.",
 
     "hero.primary":
       "Explore Services",
@@ -169,19 +169,19 @@ const translations = {
       "Evaluate",
 
     "approach.evaluate.text":
-      "Assess current systems, processes, priorities, and requirements.",
+      "Current systems, processes, and requirements.",
 
     "approach.implement.title":
       "Implement",
 
     "approach.implement.text":
-      "Configure and introduce solutions and workflows.",
+      "Configuration of systems and workflows.",
 
     "approach.support.title":
       "Support",
 
     "approach.support.text":
-      "Maintain and refine systems over time.",
+      "Ongoing maintenance and updates.",
 
 
     "about.eyebrow":
@@ -211,7 +211,7 @@ const translations = {
       "Email",
 
     "form.service":
-      "What can be addressed?",
+      "Service of interest",
 
     "form.selectService":
       "Select a service",
@@ -266,7 +266,7 @@ const translations = {
       "Systèmes d’affaires.<br>Solutions numériques.<br><span>Soutien continu.</span>",
 
     "hero.text":
-      "Services qui aident les professionnels et les petites entreprises à optimiser leurs systèmes, simplifier leurs flux de travail et mettre en place des solutions numériques.",
+      "Systèmes, flux de travail et outils numériques pour les professionnels et les petites entreprises.",
 
     "hero.primary":
       "Voir les services",
@@ -413,19 +413,19 @@ const translations = {
       "Évaluer",
 
     "approach.evaluate.text":
-      "Évaluer les systèmes, processus, priorités et exigences actuels.",
+      "Systèmes, processus et exigences actuels.",
 
     "approach.implement.title":
       "Mettre en œuvre",
 
     "approach.implement.text":
-      "Configurer et introduire des solutions et des flux de travail.",
+      "Configuration des systèmes et des flux de travail.",
 
     "approach.support.title":
       "Soutenir",
 
     "approach.support.text":
-      "Maintenir et améliorer les systèmes au fil du temps.",
+      "Maintenance et mises à jour continues.",
 
 
     "about.eyebrow":
@@ -455,7 +455,7 @@ const translations = {
       "Courriel",
 
     "form.service":
-      "Que faut-il aborder?",
+      "Service d’intérêt",
 
     "form.selectService":
       "Sélectionner un service",
