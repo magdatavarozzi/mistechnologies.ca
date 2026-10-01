@@ -87,7 +87,7 @@ const translations = {
       "Workflow & Process Management",
 
     "services.two.text":
-      "Business processes and workflows, mapped and simplified.",
+      "Processes and workflows, mapped and simplified.",
 
     "services.two.item1":
       "Process mapping",
@@ -99,7 +99,7 @@ const translations = {
       "Procedure guides",
 
     "services.two.item4":
-      "Alignment with business systems",
+      "Workflow alignment with systems",
 
     "services.four.title":
       "Web Design & Digital Solutions",
@@ -108,7 +108,7 @@ const translations = {
       "Clean, responsive websites.",
 
     "services.four.item1":
-      "Business websites",
+      "Website creation",
 
     "services.four.item2":
       "Bilingual English/French sites",
@@ -123,7 +123,7 @@ const translations = {
       "Systems Consulting & Implementation",
 
     "services.five.text":
-      "Evaluation of business needs, proposal of systems, and coordination of implementation.",
+      "Evaluation of needs, proposal of systems, and coordination of implementation.",
 
     "services.five.item1":
       "Requirements assessment",
@@ -141,7 +141,7 @@ const translations = {
       "Ongoing System Support",
 
     "services.six.text":
-      "Updates and support for business and financial systems.",
+      "Updates and support for financial and operational systems.",
 
     "services.six.item1":
       "System updates",
@@ -160,10 +160,10 @@ const translations = {
       "THE APPROACH",
 
     "approach.title":
-      "Streamline systems.<br><span>Simplify business.</span>",
+      "Streamline systems.<br><span>Simplify work.</span>",
 
     "approach.text2":
-      "Technology, workflows, and digital tools aligned with business operations.",
+      "Technology, workflows, and digital tools aligned with operations.",
 
     "approach.evaluate.title":
       "Evaluate",
@@ -188,13 +188,13 @@ const translations = {
       "ABOUT MISTECHNOLOGIES",
 
     "about.title":
-      "Systems that fit <span>the business.</span>",
+      "Technology <span>that fits.</span>",
 
     "about.business":
       "Business & Technology",
 
     "about.text1":
-      "MISTechnologies brings together business systems, financial technology, IT, and digital development to support professionals and small businesses.",
+      "MISTechnologies brings together financial systems, IT, and digital development.",
 
 
     "contact.eyebrow":
@@ -331,7 +331,7 @@ const translations = {
       "Gestion des flux de travail et des processus",
 
     "services.two.text":
-      "Processus d’affaires et flux de travail cartographiés et simplifiés.",
+      "Processus et flux de travail cartographiés et simplifiés.",
 
     "services.two.item1":
       "Cartographie des processus",
@@ -343,7 +343,7 @@ const translations = {
       "Guides de procédures",
 
     "services.two.item4":
-      "Arrimage aux systèmes d’affaires",
+      "Arrimage des flux de travail aux systèmes",
 
     "services.four.title":
       "Conception Web et solutions numériques",
@@ -352,7 +352,7 @@ const translations = {
       "Sites Web épurés et adaptatifs.",
 
     "services.four.item1":
-      "Sites Web d’affaires",
+      "Conception de sites Web",
 
     "services.four.item2":
       "Sites bilingues anglais/français",
@@ -367,7 +367,7 @@ const translations = {
       "Consultation et mise en œuvre de systèmes",
 
     "services.five.text":
-      "Évaluation des besoins d’affaires, proposition de systèmes et coordination de la mise en œuvre.",
+      "Évaluation des besoins, proposition de systèmes et coordination de la mise en œuvre.",
 
     "services.five.item1":
       "Évaluation des exigences",
@@ -385,7 +385,7 @@ const translations = {
       "Soutien continu des systèmes",
 
     "services.six.text":
-      "Mises à jour et soutien des systèmes d’affaires et financiers.",
+      "Mises à jour et soutien des systèmes financiers et opérationnels.",
 
     "services.six.item1":
       "Mises à jour des systèmes",
@@ -404,10 +404,10 @@ const translations = {
       "L’APPROCHE",
 
     "approach.title":
-      "Optimiser les systèmes.<br><span>Simplifier l’entreprise.</span>",
+      "Optimiser les systèmes.<br><span>Simplifier le travail.</span>",
 
     "approach.text2":
-      "Technologie, flux de travail et outils numériques arrimés aux opérations de l’entreprise.",
+      "Technologie, flux de travail et outils numériques arrimés aux opérations.",
 
     "approach.evaluate.title":
       "Évaluer",
@@ -432,13 +432,13 @@ const translations = {
       "À PROPOS DE MISTECHNOLOGIES",
 
     "about.title":
-      "Des systèmes adaptés <span>à l’entreprise.</span>",
+      "Une technologie <span>adaptée.</span>",
 
     "about.business":
       "Affaires et technologie",
 
     "about.text1":
-      "MISTechnologies réunit les systèmes d’affaires, la technologie financière, les TI et le développement numérique afin de soutenir les professionnels et les petites entreprises.",
+      "MISTechnologies réunit les systèmes financiers, les TI et le développement numérique.",
 
 
     "contact.eyebrow":
